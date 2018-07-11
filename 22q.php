@@ -7,4 +7,4 @@
  *
  */
 
-echo 11; die();    weiwie
+echo 11; die();    xiexieu;
